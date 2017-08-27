@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1503874692 source:/home/jonathan/C++/Matrices/main.cpp
+	"CMatriz.h"
+
+1503874676 source:/home/jonathan/C++/Matrices/src/CMatriz.cpp
+	"CMatriz.h"
+
+1503874587 /home/jonathan/C++/Matrices/include/CMatriz.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
