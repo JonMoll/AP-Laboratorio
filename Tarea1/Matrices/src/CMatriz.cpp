@@ -51,4 +51,6 @@ void CMatriz::Imprimir(){
 
         cout << endl;
     }
+
+    cout << endl;
 }
